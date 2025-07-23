@@ -1,1 +1,5 @@
 Higer Order Components
+
+a higher order componment is an advaced react pattern use for reusing componment
+logic it is a function that take a component as a input and return a new enhanced componment 
+hoc are ot part of reacts core api but a pattern used frequency in thired party liberary  
